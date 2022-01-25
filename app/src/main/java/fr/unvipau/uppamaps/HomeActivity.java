@@ -18,8 +18,7 @@ public class HomeActivity extends AppCompatActivity {
 
         MaterialCardView building = findViewById(R.id.building);
         building.setOnClickListener(view -> {
-                startActivity(new Intent(this,SplashScreenActivity.class));
-
+            startActivity(new Intent(this,SplashScreenActivity.class));
         });
 
         MaterialCardView settings = findViewById(R.id.settings);
