@@ -1,0 +1,54 @@
+CLE_INTERNE_BATIMENT;CODE_BATIMENT;LIBELLE_BATIMENT;ADR_ORDRE;CODE_POSTAL;VILLE;ADR_ADRESSE1;ADR_ADRESSE2;ADR_GPS_LONGITUDE;ADR_GPS_LATITUDE
+60;BU;NIVE Bibliothèque Universitaire;344237;64100;BAYONNE;place Paul Bert;;;
+64;B1;NIVE B1 Porche;344238;64100;BAYONNE;allée des Platanes;;;
+345;BIO;Mt Marsan Génie Biologie (GB);190203;40000;MONT DE MARSAN;rue du Ruisseau;371 RUE DU RUISSEAU;;
+344;GTR;Mt Marsan Réseaux et Télécom (RT);190204;40000;MONT DE MARSAN;rue du Ruisseau;371 RUE DU RUISSEAU;;
+342;HTM;Mt Marsan Halle technologique Sces & Génie Matériaux (SGM);344249;40000;MONT DE MARSAN;rue du Ruisseau;;;
+367;HDS;PAU Halle des Sports;344241;64000;PAU;rue Jean Genèze;;43.32042618447302;-0.3695696754365408
+380;PAL;Bâtiment Palassou;190234;64000;PAU;avenue de l'Université;Domaine Universitaire;;
+379;PRE;Bâtiment Présidence;190235;64000;PAU;avenue de l'Université;;43.31366287892683; -0.36493850386169935
+409;DAL;Bâtiment D'Alembert;344242;64000;PAU;rue Jules Ferry;;;
+63;B2;NIVE B2 Grande halle;344240;64100;BAYONNE;allée des Platanes;;;
+73;CNA;CHATEAU NEUF Aile A IKER;344243;64100;BAYONNE;place Paul Bert;;;
+387;GTE;PAU IUT Génie Thermique;190220;64000;PAU;avenue de l'Université;DOMAINE UNIVERSITAIRE;43.31355749243984;-0.36587459480919415
+407;LAV;Halle technologique Lavoisier ENSGTI;344234;64000;PAU;rue Jules Ferry;;;
+65;EC9;NIVE EC9 Amphis;198214;64100;BAYONNE;allée des Platanes;;;
+385;ICL;Bâtiment Claude Laugénie;344256;64000;PAU;avenue de l'Université;;;
+1984;ARK;Bâtiment Arkinova;388024;64600;ANGLET;allée parc Montaury;;;
+62;B3;NIVE B3 Petite halle;344251;64100;BAYONNE;allée des Platanes;;;
+67;EC3;NIVE EC3/EC3bis;195948;64100;BAYONNE;allée des Platanes;;;
+69;MDEB;BAYONNE Maison de l'Etudiant;344252;64100;BAYONNE;rue Bourgneuf;;;
+74;CNC;CHATEAU NEUF Aile C;344246;64100;BAYONNE;place Paul Bert;;;
+382;LET;PAU UFR LLSH;190231;64000;PAU;avenue de l'Université;Avenue du Doyen Poplawski;;
+378;SCI;PAU UFR Sciences;190236;64000;PAU;avenue de l'Université;Domaine Universitaire;43.31386040869171;-0.3639375308415832
+44;IUT;ANGLET IUT BPB;344247;64600;ANGLET;allée parc Montaury;;;
+1982;PAM;Pavillon Montaury;378130;64600;ANGLET;allée parc Montaury;;;
+968;EC6;NIVE EC6;195712;64100;BAYONNE;allée des Platanes;;;
+343;HTB;Mt Marsan Halle technologique Génie Biologie (GB);344257;40000;MONT DE MARSAN;rue du Ruisseau;;;
+841;HUS;TARBES Halle des Sports;344255;65000;TARBES;rue Morane Saulnier;;;
+75;CNB;CHATEAU NEUF Aile B;344235;64100;BAYONNE;place Paul Bert;;;
+341;SGM;Mt Marsan SGM : bois et éco-matériaux;200711;40000;MONT DE MARSAN;rue du Ruisseau;;;
+371;HEL;Bâtiment Hélioparc;344239;64000;PAU;avenue du Président Pierre Angot;;;
+370;IPM;Bâtiment IPREM;191138;64000;PAU;avenue du Président Pierre Angot;;;
+391;BDL;BU Droit Lettres;344258;64000;PAU;avenue de l'Université;;;
+389;DEG;PAU UFR DEG;344259;64000;PAU;avenue de l'Université;;;
+381;MDE;PAU Maison de l'Etudiant;190232;64000;PAU;avenue de l'Université;;43.313508458539886;-0.3672482741094874
+1987;BTB;Bâtiment B (INSPEE IUT);388025;40000;MONT DE MARSAN;rue Saint Pierre;;;
+1996;OMP;Batiment OMP;391080;65000;TARBES;avenue d'Azereix;;;
+1833;BMO;Bâtiment modulaire;345006;64600;ANGLET;allée parc Montaury;;;
+51;FLO;"BAYONNE Halle des Sports ""La Floride""";344244;64100;BAYONNE;avenue Raoul Follereau;;;
+388;DUB;Bâtiment Duboué;190217;64000;PAU;avenue de l'Université;Domaine Universitaire;;
+1763;MPC;Magasin Produits Chimiques et PC Sécurité;344245;64000;PAU;avenue de l'Université;;;
+377;STI;PAU IUT STID;190237;64000;PAU;avenue de l'Université;DOMAINE UNIVERSITAIRE;43.31396683985992;-0.36719625330292066
+1831;TEL;Batiment Télésite;345007;65000;TARBES;quartier Bastillac;;;
+1986;BTA;Bâtiment A (INSPEE IPREM);388023;40000;MONT DE MARSAN;rue Saint Pierre;;;
+1997;AQP;Bâtiment Aquapôle;391081;64310;SAINT PEE SUR NIVELLE;route de Saint Jean de Luz;;;
+47;BA1;Bâtiment 1 UFR ST CB;344233;64600;ANGLET;allée parc Montaury;;;
+46;BA2;Bâtiment 2 UFR ST CB;344253;64600;ANGLET;allée parc Montaury;;;
+390;BSC;BU Sciences;344260;64000;PAU;avenue de l'Université;;;
+1182;CAN;Bâtiment CANOE;344236;64000;PAU;avenue de l'Université;;;
+386;IBE;Bâtiment IBEAS;190227;64000;PAU;avenue de l'Université;Domaine Universitaire;;
+384;IPR;Bâtiment IPRA;190228;64000;PAU;avenue de l'Université;;;
+408;FER;Bâtiment Jules Ferry ENSGTI;344248;64000;PAU;rue Jules Ferry;;;
+840;STAP;Bastillac STAPS;344250;65000;TARBES;rue Morane Saulnier;;;
+1973;XPL;Bâtiment Xplorer;374382;64320;BIZANOS;avenue du stade d'eaux vives;;;
