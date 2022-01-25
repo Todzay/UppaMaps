@@ -22,7 +22,9 @@ nom de l'UPPA, l'app ne doit souffrir d'aucun défaut et respecter au mieux la c
 graphique de l'UPPA. Tous les cas particulier doivent être gérés : perte de connectivité,
 Gmaps absent, etc. Aucun crash ou installation ratée ne sera toléré pour ce projet
 particulier.
+
 Database
+
 Un simple fichier .csv positionné dans /assets/ fera ici office de base de données. Ce
 fichier pourra être amené à évoluer, mais il suffira de le remplacer et de republier l'app sur
 le Play Store.
